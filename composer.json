@@ -1,0 +1,15 @@
+{
+    "name": "hp/php_mvc_own",
+    "autoload": {
+        "psr-4": {
+            "Project\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "seif mohamed"
+        }
+    ],
+    "require": {}
+}
